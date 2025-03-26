@@ -1,0 +1,14 @@
+..\obj\anjian.o: anjian.c
+..\obj\anjian.o: stm32f10x.h
+..\obj\anjian.o: ..\CORE\core_cm3.h
+..\obj\anjian.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\anjian.o: system_stm32f10x.h
+..\obj\anjian.o: stm32f10x_conf.h
+..\obj\anjian.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\obj\anjian.o: ..\USER\stm32f10x.h
+..\obj\anjian.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\anjian.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\anjian.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\anjian.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\anjian.o: ..\SYSTEM\delay\delay.h
+..\obj\anjian.o: ..\SYSTEM\sys\sys.h

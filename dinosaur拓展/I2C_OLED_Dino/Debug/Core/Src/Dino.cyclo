@@ -1,0 +1,6 @@
+../Core/Src/Dino.c:60:6:introMessage	1
+../Core/Src/Dino.c:68:6:showLine	2
+../Core/Src/Dino.c:84:6:moveDino	5
+../Core/Src/Dino.c:99:6:moveTree	2
+../Core/Src/Dino.c:108:6:displayScore	2
+../Core/Src/Dino.c:124:6:play	27
